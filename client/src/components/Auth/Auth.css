@@ -1,0 +1,9 @@
+
+.Auth_loading_text{
+    font-weight:900;
+    font-size: 15vw;
+    font-family: emoji;
+
+    background-color : #f2f2f0;
+    text-shadow: grey 1px 0 10px;
+}

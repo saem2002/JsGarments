@@ -1,0 +1,11 @@
+.Main_Footer{
+    display: none;
+}
+@media only screen and (max-width: 500px) {
+    
+    .Main_Footer{
+        display:flex;
+        position: sticky;
+        bottom: 0;
+    }
+}
